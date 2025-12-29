@@ -18,7 +18,7 @@ The goal is to maintain event data in a persistent format and simulate a lightwe
 
  Modules Overview
 
-- events.py         Event creation & management
+- events.py                  Event creation & management
 - attendees.py      Attendee registration & authentication
 - registration.py   Ticketing, waitlist, cancellation, transfer, revenue
 - checkin.py        On-site check-in & badge generation
