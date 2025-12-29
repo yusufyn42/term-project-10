@@ -17,11 +17,11 @@ The goal is to maintain event data in a persistent format and simulate a lightwe
 
 
  Modules Overview
-```text
-events.py         Event creation & management
-attendees.py      Attendee registration & authentication
-registration.py   Ticketing, waitlist, cancellation, transfer, revenue
-checkin.py        On-site check-in & badge generation
-storage.py        JSON persistence, state saving & backup
-reports.py        Attendance, revenue and session analytics
-main.py           Main entry point 
+
+- events.py         Event creation & management
+- attendees.py      Attendee registration & authentication
+- registration.py   Ticketing, waitlist, cancellation, transfer, revenue
+- checkin.py        On-site check-in & badge generation
+- storage.py        JSON persistence, state saving & backup
+- reports.py        Attendance, revenue and session analytics
+- main.py           Main entry point 
